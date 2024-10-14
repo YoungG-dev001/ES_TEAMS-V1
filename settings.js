@@ -45,18 +45,18 @@ global.location = "Nigeria, Cross River, Calabar" //ur location
 
 //new
 global.botname = '𝐄𝐒 𝐓𝐄𝐀𝐌𝐒-𝐕𝟏' //ur bot name
-global.ownernumber = ['2348187637779'] //ur owner number, dont add more than one
-global.ownername = 'ᴇꜱ ᴛᴇᴀᴍꜱ ᴛᴇᴄʜ 👑' //ur owner name
+global.ownernumber = ['2347012224957'] //ur owner number, dont add more than one
+global.ownername = 'HACKER LORD 👑' //ur owner name
 global.websitex = "https://youtube.com/@esteams"
 global.wagc = "https://whatsapp.com/channel/0029Vaj1vKSK5cDDT4tVvY1y"
 global.themeemoji = '⛩'
 global.wm = "Es Teams Inc..."
 global.botscript = 'https://github.com/paskito002/ES_TEAMS-V1' //script link
-global.packname = "ᴇꜱ ᴛᴇᴀᴍꜱ ᴛᴇᴄʜ 👑"
+global.packname = "HACKER LORD 👑"
 global.author = "MΛDΣ BY ᴇꜱ ᴛᴇᴀᴍꜱ ᴛᴇᴄʜ 👑"
 global.creator = "2348187637779@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["2348187637779"] // Premium User
+global.premium = ["2349036938422"] // Premium User
 
 //bot sett
 global.typemenu = 'v12' // menu type 'v1' => 'v12'
